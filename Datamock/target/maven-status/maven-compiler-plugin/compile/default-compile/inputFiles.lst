@@ -1,0 +1,14 @@
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Config\JavaMailConfig.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Models\NewUserRequest.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Service\NewUserServiceInterf.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Models\OtpData.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Repository\OtpDataRepository.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\ServiceImpl\NewUserServiceImpl.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Models\NewUser.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\DatamockApplication.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Repository\NewUserRequestRepository.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Repository\NewUserRepository.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Models\Otp.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\ServiceImpl\OtpService.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\Controller\NewUserController.java
+D:\SmartGig\Datamock3\Datamock\src\main\java\com\smartGig\Datamock\ServiceImpl\MailService.java
